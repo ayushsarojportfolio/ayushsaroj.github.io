@@ -65,19 +65,19 @@ const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
     title: "PICTURE WITH WHOLE GROUP",
-    cardImage: "assets/images/experience-page/WhatsApp Image 2021-01-26 at 3.46.55 PM.JPG",
+    cardImage: "assets/images/experience-page/WhatsApp Image 2021-01-26 at 3.46.55 PM.jpg",
     description:
       "WHOLE GROUP WORK HARD FOR REPUBLIC DAY CELEBRATION",
   },
   {
     title: "SIR GIVING SPEECH",
-    cardImage: "assets/images/experience-page/WhatsApp Image 2021-01-26 at 3.46.58 PM.JPEG",
+    cardImage: "assets/images/experience-page/WhatsApp Image 2021-01-26 at 3.46.58 PM.jpeg",
     description:
       "OUR DIRECTOR SIR HAD GIVEN AWESOME SPEECH",
   },
   {
     title: "MAM GIVING SPEECH",
-    cardImage: "assets/images/experience-page/WhatsApp Image 2021-01-26 at 3.46.57 PM.JPEG",
+    cardImage: "assets/images/experience-page/WhatsApp Image 2021-01-26 at 3.46.57 PM.jpeg",
     description:
       "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
   },
