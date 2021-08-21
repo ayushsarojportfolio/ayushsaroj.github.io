@@ -124,13 +124,13 @@ const mentor = [
   {
     title: "IN CLASS 6TH",
     subtitle: "FOR ENGLISH GROUP ELOCUTION",
-    image: "assets/images/experience-page/WhatsApp Image 2021-08-20 at 1.53.49 PM.JPEG",
+    image: "assets/images/experience-page/WhatsApp Image 2021-08-20 at 1.53.49 PM.jpeg",
     desp: "OUR CLASS RECITED AN ENGLISH POEM AND WE CAME FIRST",
   },
   {
     title: "MY BEST PERFORMANCE EVER",
     subtitle: "IN CLASS 8TH",
-    image: "assets/images/experience-page/WhatsApp Image 2021-08-20 at 1.53.50 PM.JPEG",
+    image: "assets/images/experience-page/WhatsApp Image 2021-08-20 at 1.53.50 PM.jpeg",
     desp: "I GOT FIRST PLACE IN CLASS 8TH HINDI ELOCUTION THE COMPETITION WAS VERY TOUGH BUT I WON BY 0.5 POINTS",
   },
  
