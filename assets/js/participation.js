@@ -118,7 +118,7 @@ const mentor = [
   {
     title: "FIRST CERTIFICATE",
     subtitle: "CLASS 5TH",
-    image: "assets/images/experience-page/WhatsApp Image 2021-08-20 at 1.53.49 PM (1).JPEG",
+    image: "https://raw.githubusercontent.com/ayushsarojportfolio/ayushsarojportfolio.github.io/main/assets/images/experience-page/WhatsApp%20Image%202021-08-20%20at%201.53.49%20PM%20(1).jpeg",
     desp: "GOT A CERTIFICATE FROM SCHOOL FOR ENGLISHH GROUP ELOCUTION",
   },
   {
