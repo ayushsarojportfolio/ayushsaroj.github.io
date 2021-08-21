@@ -10,7 +10,7 @@ const exp = [
     cardImage: "assets/images/experience-page/flipkart.jpg",
     place: "Poem Reciting in group",
     time: "(Class 5th - 8th)",
-    desp: "<li></li> <li></li>",
+    desp: "<li>FROM CLASS 5TH TO 8TH I PARTICIPATED IN GROUP ELOCUTION</li> <li></li>",
   },
   {
     title: "TAKEN PART IN INDIVIDUAL HINDI POEM ELOCUTION",
