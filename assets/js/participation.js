@@ -83,7 +83,7 @@ const volunteershipcards = [
   },
   {
     title: "HAVING FUN AFTER CELEBRATION",
-    cardImage: "assets/images/experience-page/WhatsApp Image 2021-01-26 at 1.18.08 PM.JPEG",
+    cardImage: "assets/images/experience-page/WhatsApp Image 2021-01-26 at 1.18.08 PM.jpeg",
     description:
       "Moments...............",
   },
