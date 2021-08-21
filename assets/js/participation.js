@@ -10,7 +10,7 @@ const exp = [
     cardImage: "assets/images/experience-page/flipkart.jpg",
     place: "Poem Reciting in group",
     time: "(Class 5th - 8th)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    desp: "<li></li> <li></li>",
   },
   {
     title: "TAKEN PART IN INDIVIDUAL HINDI POEM ELOCUTION",
