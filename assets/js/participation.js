@@ -78,7 +78,7 @@ const volunteershipcards = [
   },
   {
     title: "SIR GIVING SPEECH",
-    cardImage: "assets/images/experience-page/WhatsApp Image 2021-01-26 at 3.46.58 PM.JPEG",
+    cardImage: "assets/images/experience-page/WhatsApp Image 2021-01-26 at 3.46.58 PM.jpeg",
     description:
       "OUR DIRECTOR SIR HAD GIVEN AWESOME SPEECH",
   },
