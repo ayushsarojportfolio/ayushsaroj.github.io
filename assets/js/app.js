@@ -17,10 +17,12 @@ let header = $(`
   <ul class="navbar-nav ml-auto" id = "navbar-content">
    <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Home</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="participation.html">Participations</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="404.html">Goals</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="404.html">Subject Enrich.</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="404.html">Others</a></li>
+   
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="subject enrichment.html">Subject Enrich.</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="About Me.html">About</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="404.html">Imp. Links</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="404.html" target="_blank"></a></li>
+  
    <li class="nav-item">
    <input type="checkbox" class="dark_toggler" aria-label="Toggle Light Mode" onclick="toggle_light_mode()">
    </li>
@@ -125,12 +127,7 @@ let footer = $(`
 
 
 
-        <div class="col-lg-6 col-md-12 mb-4 mb-md-0 form-comtainer">
-          <div class="form-style-6">
-             <div class="form-header">
-                <h6 class="display">Contact Ayush Saroj</h6>
-                <div id="wufoo-zsm4s5e16dgv07"> Fill out my <a href="https://portfolio.wufoo.com/forms/zsm4s5e16dgv07">online form</a>. </div> <script type="text/javascript"> var zsm4s5e16dgv07; (function(d, t) { var s = d.createElement(t), options = { 'userName':'portfolio', 'formHash':'zsm4s5e16dgv07', 'autoResize':true, 'height':'521', 'async':true, 'host':'wufoo.com', 'header':'show', 'ssl':true }; s.src = ('https:' == d.location.protocol ?'https://':'http://') + 'secure.wufoo.com/scripts/embed/form.js'; s.onload = s.onreadystatechange = function() { var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return; try { zsm4s5e16dgv07 = new WufooForm(); zsm4s5e16dgv07.initialize(options); zsm4s5e16dgv07.display(); } catch (e) { } }; var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr); })(document, 'script'); </script>
-        </div>
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeyEo08AeD5Fn5NKDfJ2ggsJ9Z9A1RDsYuB9AneeBvEG5g6JQ/viewform?embedded=true" width="400" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
     </div>
 
 

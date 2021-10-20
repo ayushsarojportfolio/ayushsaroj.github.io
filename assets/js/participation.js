@@ -10,7 +10,7 @@ const exp = [
     cardImage: "assets/images/experience-page/flipkart.jpg",
     place: "Poem Reciting in group",
     time: "(Class 5th - 8th)",
-    desp: "<li>FROM CLASS 5TH TO 8TH I PARTICIPATED IN GROUP ELOCUTION</li> <li></li>",
+    desp: "<li>FROM CLASS 5TH TO 8TH I PARTICIPATED IN GROUP ELOCUTION</li> ",
   },
   {
     title: "TAKEN PART IN INDIVIDUAL HINDI POEM ELOCUTION",
@@ -23,8 +23,15 @@ const exp = [
     title: "REPUBLIC DAY",
     cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
     place: "IN SCHOOL",
-    time: "(26 JANUARY 2020)",
+    time: "(26 JANUARY 2021)",
     desp:"<li>RECITED A HINDI POEM IN REPUBLIC DAY CELEBRATION IN CLASS 9TH</li><li> THE CELEBRATION WAS STREAMED LIVE ON YOUTUBE  </li>",
+  },
+  {
+    title: "HINDI KAVYA SAMMELAN",
+    cardImage: "https://scontent.fdel24-1.fna.fbcdn.net/v/t1.6435-9/244202656_1297289824049977_1073081908882215669_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=f22B9JLJ2VMAX8EfuJq&_nc_ht=scontent.fdel24-1.fna&oh=3f482a7319fb0b36c1b57f290ebf40e7&oe=6187EEEE",
+    place: "IN SCHOOL",
+    time: "(14 SEPTEMBER 2021)",
+    desp:"<li>I WAS DRESSED LIKE PANDIT GOPAL PRASAD VYAS(VEER RAS KAVI)</li><li>I RECITED A POEM- KHOONI HASTAKSHAR</li>",
   },
 ];
 
@@ -65,25 +72,25 @@ const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
     title: "PICTURE WITH WHOLE GROUP",
-    cardImage: "assets/images/experience-page/WhatsApp Image 2021-01-26 at 3.46.55 PM.jpg",
+    cardImage: "assets/images/experience-page/WhatsApp Image 2021-01-26 at 3.46.55 PM.JPG",
     description:
       "WHOLE GROUP WORK HARD FOR REPUBLIC DAY CELEBRATION",
   },
   {
     title: "SIR GIVING SPEECH",
-    cardImage: "assets/images/experience-page/WhatsApp Image 2021-01-26 at 3.46.58 PM.jpeg",
+    cardImage: "assets/images/experience-page/WhatsApp Image 2021-01-26 at 3.46.58 PM.JPEG",
     description:
       "OUR DIRECTOR SIR HAD GIVEN AWESOME SPEECH",
   },
   {
     title: "MAM GIVING SPEECH",
-    cardImage: "assets/images/experience-page/WhatsApp Image 2021-01-26 at 3.46.57 PM.jpeg",
+    cardImage: "assets/images/experience-page/WhatsApp Image 2021-01-26 at 3.46.57 PM.JPEG",
     description:
-      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
+      "Principle mam had given speech",
   },
   {
     title: "HAVING FUN AFTER CELEBRATION",
-    cardImage: "assets/images/experience-page/WhatsApp Image 2021-01-26 at 1.18.08 PM.jpeg",
+    cardImage: "assets/images/experience-page/WhatsApp Image 2021-01-26 at 1.18.08 PM.JPEG",
     description:
       "Moments...............",
   },
@@ -118,25 +125,31 @@ const mentor = [
   {
     title: "FIRST CERTIFICATE",
     subtitle: "CLASS 5TH",
-    image: "https://raw.githubusercontent.com/ayushsarojportfolio/ayushsarojportfolio.github.io/main/assets/images/experience-page/WhatsApp%20Image%202021-08-20%20at%201.53.49%20PM%20(1).jpeg",
+    image: "assets/images/experience-page/WhatsApp Image 2021-08-20 at 1.53.49 PM (1).JPEG",
     desp: "GOT A CERTIFICATE FROM SCHOOL FOR ENGLISHH GROUP ELOCUTION",
   },
   {
     title: "IN CLASS 6TH",
     subtitle: "FOR ENGLISH GROUP ELOCUTION",
-    image: "https://raw.githubusercontent.com/ayushsarojportfolio/ayushsarojportfolio.github.io/main/assets/images/experience-page/WhatsApp%20Image%202021-08-20%20at%201.53.49%20PM.jpeg",
+    image: "assets/images/experience-page/WhatsApp Image 2021-08-20 at 1.53.49 PM.JPEG",
     desp: "OUR CLASS RECITED AN ENGLISH POEM AND WE CAME FIRST",
   },
   {
     title: "MY BEST PERFORMANCE EVER",
     subtitle: "IN CLASS 8TH",
-    image: "https://raw.githubusercontent.com/ayushsarojportfolio/ayushsarojportfolio.github.io/main/assets/images/experience-page/WhatsApp%20Image%202021-08-20%20at%201.53.50%20PM.jpeg",
+    image: "assets/images/experience-page/WhatsApp Image 2021-08-20 at 1.53.50 PM.JPEG",
     desp: "I GOT FIRST PLACE IN CLASS 8TH HINDI ELOCUTION THE COMPETITION WAS VERY TOUGH BUT I WON BY 0.5 POINTS",
   },
- 
+  {
+    title: "KHOONI HASTAKSHAR",
+    subtitle: "IN CLASS 10TH",
+    image: "https://scontent.fdel24-1.fna.fbcdn.net/v/t1.6435-9/p843x403/244192149_1297293644049595_1376918424660812619_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=SvmdDz11B7gAX9poBxE&_nc_ht=scontent.fdel24-1.fna&oh=fe20d4a87e6ec8e8a6656ea89ad73608&oe=618863CB",
+    desp: "I GOT A CERTIFICATE FOR EXCELLENCE",
+  }, 
   
 
 ];
+document.addEventListener('contextmenu', event => event.preventDefault());
 
 const showCards3 = () => {
   let output = "";
