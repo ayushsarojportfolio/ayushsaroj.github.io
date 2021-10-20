@@ -84,7 +84,7 @@ const volunteershipcards = [
   },
   {
     title: "MAM GIVING SPEECH",
-    cardImage: "ayushsarojportfolio.github.io/assets/images/experience-page/WhatsApp Image 2021-01-26 at 3.46.57 PM.jpeg",
+    cardImage: "assets/images/experience-page/WhatsApp Image 2021-01-26 at 3.46.57 PM.jpeg",
     description:
       "Principle mam had given speech",
   },
