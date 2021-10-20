@@ -72,7 +72,7 @@ const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
     title: "PICTURE WITH WHOLE GROUP",
-    cardImage: "https://github.com/ayushsarojportfolio/ayushsarojportfolio.github.io/blob/main/assets/images/experience-page/WhatsApp%20Image%202021-01-26%20at%203.46.55%20PM.jpg",
+    cardImage: "https://raw.githubusercontent.com/ayushsarojportfolio/ayushsarojportfolio.github.io/main/assets/images/experience-page/WhatsApp%20Image%202021-01-26%20at%203.46.55%20PM.jpg",
     description:
       "WHOLE GROUP WORK HARD FOR REPUBLIC DAY CELEBRATION",
   },
